@@ -44,7 +44,7 @@ The analysis was conducted using **Tableau Desktop**, and the `.twbx` packaged w
 - Developed an interactive dashboard that enables filtering by customer segment, product type, and time period.
 
 **Main Tool Used**: Tableau  
-**Supporting Tools**: Excel (for data prep), optional Python/Pandas (for preprocessing if needed)
+**Supporting Tools**: Excel (for data prep)
 
 ---
 
